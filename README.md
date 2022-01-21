@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Paul Osinga</h1>
-<h3 align="center">Musico y Developer que no para de aprender.</h3>
+<h3 align="center">Musico y Developer en un solo container.</h3>
 
 - 🔭 Estoy trabajando como freelance en Workana [Multiples proyectos](https://www.workana.com/freelancer/1212aab332379115ae6a173c91e271d7)
 
