@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=paulpwo&theme=onedark&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 Estoy trabajando como freelance en Workana [Multiples proyectos](https://www.workana.com/freelancer/1212aab332379115ae6a173c91e271d7)
+- 🔭 Freelance en Workana [Multiples proyectos](https://www.workana.com/freelancer/1212aab332379115ae6a173c91e271d7)
 
 - 🌱 Estudios y Cursos **Laravel, Django, Skylearn, Rush, Nodejs, Express, Flutter.**
 
