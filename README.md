@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Paul Osinga</h1>
 <h3 align="center">Musico y Developer en un solo container.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=paulpwo&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=paulpwo&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 Estoy trabajando como freelance en Workana [Multiples proyectos](https://www.workana.com/freelancer/1212aab332379115ae6a173c91e271d7)
 
